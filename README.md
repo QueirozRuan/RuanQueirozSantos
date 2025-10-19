@@ -1,6 +1,12 @@
 <!-- Banner animado -->
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHoxMGlnZHNmdTVqZHNvZGF6NTUyYm5sZTQ0empyNWh0ejM2cWFmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HNT6RrG7e0Wti/giphy.gif" width="70%" alt="Coding GIF"/>
+  <img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHoxMGlnZHNmdTVqZHNvZGF6NTUyYm5sZTQ0empyNWh0ejM2cWFmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HNT6RrG7e0Wti/giphy.gif" 
+    width="60%" 
+    alt="Coding GIF" 
+    loading="lazy"
+    style="display:block; margin:auto;"
+  />
 </p>
 
 <h1 align="center">👋 Olá, eu sou <strong>Ruan Queiroz</strong></h1>
@@ -18,22 +24,22 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,linux,git,github,vscode,bash,react" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,github,vscode," />
 </div>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<SEU_USUARIO>&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<SEU_USUARIO>&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QueirozRuan&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueirozRuan&layout=compact&theme=radical" />
 </div>
 
 ---
 
 ### 🌎 Conecte-se comigo
 <p align="center">
-  <a href="https://linkedin.com/in/<seu_linkedin>" target="_blank">
+  <a href="www.linkedin.com/in/ruan-queiroz-santos-540ab1379" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:<seu-email>@gmail.com">
