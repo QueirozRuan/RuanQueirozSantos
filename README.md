@@ -1,7 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmEwamRmYXg2N3V5MjNkeHp5dzB2cG56N3BudGticnBmZWw4dzZqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u45fJsnFX75rYyP6YE/giphy.gif)" width="100%" alt="Coding GIF"/>
-
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmEwamRmYXg2N3V5MjNkeHp5dzB2cG56N3BudGticnBmZWw4dzZqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u45fJsnFX75rYyP6YE/giphy.gif" width="100%" alt="Coding GIF"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou <strong>Ruan Queiroz</strong></h1>
