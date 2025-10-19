@@ -12,7 +12,7 @@
 - 🌐 Apaixonado por tecnologia, segurança e inovação.  
 - 🧠 Sempre aprendendo sobre **pentest**, **automação** e **inteligência artificial**.  
 - 🧩 Busco unir **segurança e performance** em cada projeto.  
-- ✉️ Contato: **<seu-email>@gmail.com**
+- ✉️ Contato: **queiroz.dev@gmail.com**
 
 ---
 
