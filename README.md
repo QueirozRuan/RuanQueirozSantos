@@ -18,7 +18,7 @@
 - 🌐 Apaixonado por tecnologia, segurança e inovação.  
 - 🧠 Sempre aprendendo sobre **pentest**, **automação** e **inteligência artificial**.  
 - 🧩 Busco unir **segurança e performance** em cada projeto.  
-- ✉️ Contato: **queiroz.dev@gmail.com**
+- ✉️ Contato: **queiroz.dev8@gmail.com**
 
 ---
 
